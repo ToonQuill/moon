@@ -1,6 +1,6 @@
 # Site
 title:              aisenma
-bio:                'still in training'
+bio:                'Start and learning about content creation at early 2017. I make video games and stuff.'
 description:        "Student"
 reading_time:       true
 words_per_minute:   200
@@ -38,19 +38,19 @@ disqus_shortname:   aisenma
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+#twitter:            username
+#facebook:           username
+#github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
