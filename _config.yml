@@ -5,7 +5,7 @@ description:        "Start making video games in early 2017."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-logoze               'assets/img/xlogo.png'
+xlogo:              'assets/img/xlogo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
