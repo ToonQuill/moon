@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Sealion
-tags: []
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
