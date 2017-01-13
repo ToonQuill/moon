@@ -9,7 +9,7 @@ xlogo:              'assets/img/xlogo.svg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://nananina.net
+url:                http://nananina.net
 
 # Jekyll
 permalink:          /:title/
